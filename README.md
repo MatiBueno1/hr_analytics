@@ -69,8 +69,8 @@ Identificar los principales factores que generan rotación de empleados en una e
 
 ## 📊 Dashboard
 
-![Dashboard General](imagenes/dashboard-general.png)
-![Dashboard Human Resources](imagenes/dashboard-HR.png)
-![Dashboard Research & Development](imagenes/dashboard-R&D.png)
-![Dashboard Sales](imagenes/dashboard-Sales.png)
+![Dashboard General](HR_Analytics/imagenes/dashboard-general.png)
+![Dashboard Human Resources](HR_Analytics/imagenes/dashboard-HR.png)
+![Dashboard Research & Development](HR_Analytics/imagenes/dashboard-R&D.png)
+![Dashboard Sales](HR_Analytics/imagenes/dashboard-Sales.png)
 
