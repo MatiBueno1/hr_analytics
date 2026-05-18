@@ -67,7 +67,7 @@ Identificar los principales factores que generan rotación de empleados en una e
   Las **Columnas** de la db están en negrita
 
 
-## 📊 Dashboard
+##  Dashboard
 
 ![Dashboard General](HR_Analytics/imagenes/dashboard-general.png)
 ![Dashboard Human Resources](HR_Analytics/imagenes/dashboard-HR.png)
